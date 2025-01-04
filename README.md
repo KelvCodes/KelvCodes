@@ -3,8 +3,8 @@
 🌱 I’m currently learning the intricacies of **React** and **Node.js** to expand my skillset and build dynamic, user-centric applications.
 💞️ I’m looking always to collaborate on open-source projects that push the boundaries of web development and foster a collaborative community.
 📫 Reach me on email at onlykelvin06@gmail.com 
-😄 Pronouns: he/him
-⚡ Fun fact: I once built a fully functional website in a single weekend, just for fun!
+😄 Pronouns: he/him 
+⚡ Fun fact: I once built a fully functional website in a single weekend, just for fun!😂 
 
 <!---
 KelvCodes/KelvCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
