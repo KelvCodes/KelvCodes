@@ -7,7 +7,7 @@
 😄 Pronouns: he/him 
 ⚡ Fun fact: I once built a fully functional website in a single weekend, just for fun!😂 
 You can check me out on LinkedIn for more 🤙
-https://www.linkedin.com/in/kelvin-agyare-yeboah-6728a7301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+(https://www.linkedin.com/in/kelvin-agyare-yeboah-6728a7301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 <!---
 KelvCodes/KelvCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
