@@ -1,5 +1,6 @@
 👋 Hi, I’m @KelvCodes
 👀By day, i'm a frontend engineer, a web developer and an AI Researcher 🤖 
+🚀 By night 🌙, I dream of becoming a full stack developer 
 🌱 I’m currently learning the intricacies of **React** and **Node.js** to expand my skillset and build dynamic, user-centric applications.
 💞️ I’m looking always to collaborate on open-source projects that push the boundaries of web development and foster a collaborative community.
 📫 Reach me on email at onlykelvin06@gmail.com and +233 24447 2771 on WhatsApp!
