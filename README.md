@@ -3,7 +3,7 @@
 🚀 By night 🌙, I dream of becoming a full stack developer who will be able to handle the entire lifecycle of web applications.
 🌱 I’m currently learning the intricacies of **React** and **Node.js** to expand my skillset and build dynamic, user-centric applications.
 💞️ I’m looking always to collaborate on open-source projects that push the boundaries of web development and foster a collaborative community.
-📫 Reach me on email at onlykelvin06@gmail.com and +233 24447 2771 on WhatsApp!
+📫 Reach me on email at (onlykelvin06@gmail.com) and +233 24447 2771 on WhatsApp!
 😄 Pronouns: he/him 
 ⚡ Fun fact: I once built a fully functional website in a single weekend, just for fun!😂 
 You can check me out on LinkedIn for more 🤙
