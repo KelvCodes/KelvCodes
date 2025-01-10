@@ -1,5 +1,6 @@
-👋 Hey there! I’m @KelvCodes(Kelvin)
-👀By day, i'm a frontend engineer, a web developer and an AI Researcher 🤖conversant with MEAN Stack. 
+👋 Hey there! 
+I’m @KelvCodes(Kelvin)👀
+By day, i'm a frontend engineer, a web developer and an AI Researcher 🤖conversant with MEAN Stack. 
 🚀 By night 🌙, I dream of becoming a full stack developer who will be able to handle the entire lifecycle of web applications.
 🌱 I’m currently learning the intricacies of **React** and **Node.js** to expand my skillset and build dynamic, user-centric applications.
 💞️ I’m always looking to collaborate to open-source projects that push the boundaries of web development,software development that foster a collaborative community and beyond.
