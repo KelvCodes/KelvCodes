@@ -67,7 +67,7 @@ Welcome to my GitHub profile! 🚀 I’m a frontend engineer dedicated to creati
 
 ## 🤝 Let's Connect!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelvinagyareyeboah)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelvinagyareyeboah)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_.yo.kelvin)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:onlykelvin06@gmail.com)  
 
