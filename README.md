@@ -11,6 +11,7 @@ Welcome to my GitHub profile! 🚀 I’m a frontend engineer dedicated to creati
 ![Profile Views](https://komarev.com/ghpvc/?username=KelvCodes&color=blue)  
 
 ---
+
 ## 🏆 Achievements  
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KelvCodes&theme=radical&margin-w=15&margin-h=15&row=1)  
@@ -19,6 +20,7 @@ Welcome to my GitHub profile! 🚀 I’m a frontend engineer dedicated to creati
 - 🚀 **Completed 50+ Projects** showcasing creativity and problem-solving.  
 - 💻 **Contributed to Open Source** to improve global developer tools.  
 - 🌟 **5+ Recognitions** for exceptional UI/UX design and innovation.  
+
 ---
 
 ## 🔍 About Me  
