@@ -1,8 +1,8 @@
-# 👋 Hi there! I'm Kelvin Agyare 
+# 👋 Hello, World! I'm [Agyare Kelvin]  
 
-**🌟 Frontend Engineer| WEB DEVELOPER | REACT AND JAVASCRIPT EXPERT| Builder of Digital Experiences**  
+**🌟 Frontend Engineer | UI/UX Enthusiast | Crafting Seamless User Experiences**  
 
-Welcome to my GitHub profile! 🚀 I’m a frontend developer (HTML5, CSS3, BOOTSTRAP, REACT, JAVASCRIPT). I’m passionate about crafting efficient, scalable, and visually appealing solutions that solve real-world problems.  
+Welcome to my GitHub profile! 🚀 I’m a frontend engineer dedicated to creating engaging and visually stunning web applications. From landing pages to dynamic web apps, I thrive on bringing designs to life with clean, efficient code.  
 
 ---
 
@@ -14,36 +14,36 @@ Welcome to my GitHub profile! 🚀 I’m a frontend developer (HTML5, CSS3, BOOT
 
 ## 🔍 About Me  
 
-- 🌟 Turning complex ideas into functional, elegant web applications is my superpower.  
-- 💻 Proficient in both frontend with a flair for design.  
-- 🎯 Goal: To collaborate on innovative projects that impact lives positively.  
-- 🎮 Fun Fact: When I’m not coding, I’m either gaming, experimenting with recipes, or catching up on sci-fi movies.  
+- 🎨 Specializing in creating **user-friendly interfaces** and **responsive designs**.  
+- 🌱 Currently exploring **Next.js** and **advanced animation libraries**.  
+- 💡 Passionate about merging aesthetics and functionality in web development.  
+- ☕ Fun Fact: I believe great ideas are brewed over coffee and late-night coding sessions!  
 
 ---
 
 ## 🛠️ Tech Stack  
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-339933?style=flat-square&logo=bootstrap&logoColor=white)  
-![Tailwind Css](https://img.shields.io/badge/Tailwind Css-47A248?style=flat-square&logo=tailwindcss&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
 
 ---
 
 ## ✨ Featured Projects  
 
+🌟 **[Landing Page](https://fitbliss-gym.netlify.app/)**  
+🔗 *A beautifully designed and responsive landing page, built with Tailwind CSS and React.*  
+
+🌟 **[To-Do List App](https://listnest.netlify.app/)**  
+🔗 *A dynamic and intuitive to-do list application with CRUD functionalities and local storage support.*  
+
 🌟 **[Weather App](https://weather-genie-site.netlify.app/)**  
-🔗 *An all-inclusive e-commerce platform featuring secure payment gateways, dynamic product displays, and user authentication.*  
-
-🌟 **[Todo App](https://listnest.netlify.app/)**  
-🔗 *A real-time social networking platform with interactive features like live chat, feed updates, and more.*  
-
-🌟 **[Portfolio Website](https://yourportfolio.com)**  
-🔗 *Showcasing my skills, experience, and projects in an engaging, responsive design.*  
+🔗 *A real-time weather application using the OpenWeather API to fetch and display accurate weather updates.*  
 
 ---
 
@@ -56,13 +56,12 @@ Welcome to my GitHub profile! 🚀 I’m a frontend developer (HTML5, CSS3, BOOT
 
 ## 🤝 Let's Connect!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
-[![Instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_.yo.kelvin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/KelvinAgyareYeboah)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_.yo.kelvin)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:onlykelvin06@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://yourportfolio.com)  
 
 ---
 
-💬 *"Keep pushing the limits of what’s possible, one line of code at a time."*  
+💬 *"The details are not the details. They make the design."* – Charles Eames  
 
-🌟 **Thanks for visiting! Let’s collaborate to build something extraordinary.**
+🌟 **Thanks for stopping by! Let’s create something amazing together.**
