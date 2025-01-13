@@ -8,7 +8,7 @@ Welcome to my GitHub profile! 🚀 I’m a full-stack developer specializing in 
 
 ![GitHub followers](https://img.shields.io/github/followers/KelvCodes?label=Follow%20Me&style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/KelvCodes?affiliations=OWNER%2CCOLLABORATOR&style=social)  
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)  
+![Profile Views](https://komarev.com/ghpvc/?KelvCodes=KelvCodes&color=blue)  
 
 ---
 
