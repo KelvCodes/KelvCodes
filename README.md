@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Agyare Kelvin 
+# 👋 Hi there! I'm Kelvin Agyare 
 
 **🌟 Full-Stack Developer | MERN Stack Enthusiast | Builder of Digital Experiences**  
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! 🚀 I’m a full-stack developer specializing in 
 
 ![GitHub followers](https://img.shields.io/github/followers/KelvCodes?label=Follow%20Me&style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/KelvCodes?affiliations=OWNER%2CCOLLABORATOR&style=social)  
-![Profile Views](https://komarev.com/ghpvc/?KelvCodes=KelvCodes&color=blue)  
+![Profile Views](https://komarev.com/ghpvc/?username=KelvCodes&color=blue)  
 
 ---
 
@@ -36,10 +36,10 @@ Welcome to my GitHub profile! 🚀 I’m a full-stack developer specializing in 
 
 ## ✨ Featured Projects  
 
-🌟 **[MERN E-Commerce Platform](https://github.com/yourusername/mern-ecommerce)**  
+🌟 **[Weather App](https://weather-genie-site.netlify.app/)**  
 🔗 *An all-inclusive e-commerce platform featuring secure payment gateways, dynamic product displays, and user authentication.*  
 
-🌟 **[Social Network App](https://github.com/yourusername/social-network-app)**  
+🌟 **[Todo App](https://listnest.netlify.app/)**  
 🔗 *A real-time social networking platform with interactive features like live chat, feed updates, and more.*  
 
 🌟 **[Portfolio Website](https://yourportfolio.com)**  
@@ -49,16 +49,16 @@ Welcome to my GitHub profile! 🚀 I’m a full-stack developer specializing in 
 
 ## 📈 GitHub Stats  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KelvCodes&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvCodes&layout=compact&theme=radical)  
 
 ---
 
 ## 🤝 Let's Connect!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yourname@example.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_.yo.kelvin)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:onlykelvin06@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://yourportfolio.com)  
 
 ---
