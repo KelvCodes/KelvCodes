@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm [Agyare Kelvin]  
+# 👋 Hello, World! I'm Agyare Kelvin  
 
 **🌟 Frontend Engineer | UI/UX Enthusiast | Crafting Seamless User Experiences**  
 
