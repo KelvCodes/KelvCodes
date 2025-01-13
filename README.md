@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm Kelvin Agyare 
 
-**🌟 Full-Stack Developer | MERN Stack Enthusiast | Builder of Digital Experiences**  
+**🌟 Frontend Engineer| WEB DEVELOPER | REACT AND JAVASCRIPT EXPERT| Builder of Digital Experiences**  
 
-Welcome to my GitHub profile! 🚀 I’m a full-stack developer specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js). I’m passionate about crafting efficient, scalable, and visually appealing solutions that solve real-world problems.  
+Welcome to my GitHub profile! 🚀 I’m a frontend developer (HTML5, CSS3, BOOTSTRAP, REACT, JAVASCRIPT). I’m passionate about crafting efficient, scalable, and visually appealing solutions that solve real-world problems.  
 
 ---
 
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! 🚀 I’m a full-stack developer specializing in 
 ## 🔍 About Me  
 
 - 🌟 Turning complex ideas into functional, elegant web applications is my superpower.  
-- 💻 Proficient in both frontend and backend development with a flair for design.  
+- 💻 Proficient in both frontend with a flair for design.  
 - 🎯 Goal: To collaborate on innovative projects that impact lives positively.  
 - 🎮 Fun Fact: When I’m not coding, I’m either gaming, experimenting with recipes, or catching up on sci-fi movies.  
 
@@ -25,8 +25,8 @@ Welcome to my GitHub profile! 🚀 I’m a full-stack developer specializing in 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-339933?style=flat-square&logo=bootstrap&logoColor=white)  
+![Tailwind Css](https://img.shields.io/badge/Tailwind Css-47A248?style=flat-square&logo=tailwindcss&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
