@@ -14,7 +14,8 @@ Welcome to my GitHub profile! 🚀 I’m a frontend engineer dedicated to creati
 
 ## 🏆 Achievements  
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KelvCodes&theme=radical&margin-w=15&margin-h=15&row=1)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KelvCodes&theme=radical&margin-w=15&margin-h=15&row=1)
+  
 
 **Some Highlights:**  
 - 🚀 **Completed 50+ Projects** showcasing creativity and problem-solving.  
@@ -58,10 +59,11 @@ Welcome to my GitHub profile! 🚀 I’m a frontend engineer dedicated to creati
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Stats    
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KelvCodes&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvCodes&layout=compact&theme=radical)  
+
 
 ---
 
