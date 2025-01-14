@@ -1,0 +1,32 @@
+name: Update GitHub Stats
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Update GitHub Stats
+        run: |
+          echo "Fetching GitHub stats..."
+          curl -s "https://github-readme-stats.vercel.app/api?username=KelvCodes&show_icons=true&theme=radical" > stats.svg
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=KelvCodes&layout=compact&theme=radical" > top-langs.svg
+          sed -i '/## 📈 GitHub Stats/,+3s|.*|![Your GitHub Stats](stats.svg)\n![Top Languages](top-langs.svg)|' README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "Kelvin Agyare"
+          git config --global user.email "onlykelvin06@gmail.com"
+          git add .
+          git commit -m "Updated GitHub stats dynamically"
+          git push
