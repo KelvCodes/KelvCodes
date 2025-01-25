@@ -89,7 +89,7 @@ Here are a few of my most notable projects that you can check out:
 5. **[Expense Tracker](https://github.com/KelvCodes/Expense-Tracker)** 💸  
    - A simple expense tracking app using React and local storage for keeping track of expenses.
 
-6. **[Weather App](
+6. **[Weather App](https://weather-genie-site.netlify.app/
 )** 🌦️  
    - A weather application that uses an external API to show the weather details based on user input location.
 
