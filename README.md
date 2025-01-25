@@ -7,6 +7,11 @@
     <p><i>"The only way to do great work is to love what you do."</i></p>
     <footer>- Steve Jobs</footer>
   </blockquote>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=KelvCodes&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+    <img src="https://img.shields.io/github/stars/KelvCodes?style=for-the-badge&color=blue" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/followers/KelvCodes?style=for-the-badge&color=orange" alt="GitHub Followers" />
+  </div>
 </div>
 
 ---
