@@ -20,6 +20,45 @@
 
 ---
 
+### 🚀 Featured Projects  
+Here are a few of my most notable projects that you can check out:
+
+1. **[BrainFrys](https://github.com/KelvCodes/BrainFrys)**  
+   - A platform offering tutorials and exercises on coding, aiming to provide free resources for learning programming.
+
+2. **[Portfolio](https://github.com/KelvCodes/Portfolio)**  
+   - My personal portfolio showcasing the projects I've worked on.
+
+3. **[Task Manager](https://github.com/KelvCodes/Task-Manager)**  
+   - A full-stack application for managing tasks, built with React on the front-end and Node.js for the back-end.
+
+4. **[E-Commerce Website](https://github.com/KelvCodes/E-Commerce-Site)**  
+   - A fully functioning e-commerce website with user authentication and payment integration.
+
+5. **[Expense Tracker](https://github.com/KelvCodes/Expense-Tracker)**  
+   - A simple expense tracking app using React and local storage for keeping track of expenses.
+
+6. **[Weather App](https://github.com/KelvCodes/Weather-App)**  
+   - A weather application that uses an external API to show the weather details based on user input location.
+
+---
+
+### 📊 GitHub Stats  
+
+#### Overall Stats  
+![KelvCodes' GitHub Stats](https://github-readme-stats.vercel.app/api?username=KelvCodes&show_icons=true&theme=radical&count_private=true)  
+
+#### Top Languages by Repositories  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvCodes&layout=compact&theme=radical)  
+
+#### Contribution Graph  
+[![KelvCodes' GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KelvCodes&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+
+#### GitHub Achievements  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KelvCodes&theme=radical&row=2&column=4)
+
+---
+
 ### 🌐 Connect with Me  
 <div>
   <a href="mailto:kelvinyeboah.codes@gmail.com">
@@ -66,45 +105,15 @@
 
 ---
 
-### 📊 GitHub Stats  
-
-#### Overall Stats  
-![KelvCodes' GitHub Stats](https://github-readme-stats.vercel.app/api?username=KelvCodes&show_icons=true&theme=radical&count_private=true)  
-
-#### Top Languages by Repositories  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvCodes&layout=compact&theme=radical)  
-
-#### Contribution Graph  
-[![KelvCodes' GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KelvCodes&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)  
-  
-
-#### GitHub Achievements  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KelvCodes&theme=radical&row=2&column=4)
-
----
-
-### 🚀 Featured Projects  
-Here are a few of my most notable projects that you can check out:
-
-1. **[BrainFrys](https://github.com/KelvCodes/BrainFrys)**  
-   - A platform offering tutorials and exercises on coding, aiming to provide free resources for learning programming.
-
-2. **[Portfolio](https://github.com/KelvCodes/Portfolio)**  
-   - My personal portfolio showcasing the projects I've worked on.
-
-3. **[Task Manager](https://github.com/KelvCodes/Task-Manager)**  
-   - A full-stack application for managing tasks, built with React on the front-end and Node.js for the back-end.
-
-4. **[E-Commerce Website](https://github.com/KelvCodes/E-Commerce-Site)**  
-   - A fully functioning e-commerce website with user authentication and payment integration.
-
-5. **[Expense Tracker](https://github.com/KelvCodes/Expense-Tracker)**  
-   - A simple expense tracking app using React and local storage for keeping track of expenses.
-
-6. **[Weather App](https://github.com/KelvCodes/Weather-App)**  
-   - A weather application that uses an external API to show the weather details based on user input location.
-
----
-
 ### 💡 Support My Work  
 If you enjoy my projects, feel free to [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%F0%9F%8C%8D-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kelvcodes) !
+
+---
+
+### 📫 Contact Me  
+Feel free to reach out if you want to collaborate, chat about tech, or need assistance. I’m always up for new challenges and opportunities!
+
+---
+
+#### 🚨 Fun Fact  
+I have a strange love for pixel-perfect designs and well-structured, clean code. Let’s make great things together! 😄
