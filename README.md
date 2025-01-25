@@ -80,7 +80,7 @@ Here are a few of my most notable projects that you can check out:
 2. **[Portfolio](https://github.com/KelvCodes/Portfolio)** 🖥️  
    - My personal portfolio showcasing the projects I've worked on.
 
-3. **[Task Manager](https://github.com/KelvCodes/Task-Manager)** 📋  
+3. **[Task Manager](https://listnest.netlify.app/)** 📋  
    - A full-stack application for managing tasks, built with React on the front-end and Node.js for the back-end.
 
 4. **[E-Commerce Website](https://github.com/KelvCodes/E-Commerce-Site)** 🛒  
