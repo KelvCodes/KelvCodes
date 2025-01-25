@@ -2,7 +2,7 @@
 
 **🌟 Frontend Engineer | UI/UX Enthusiast | Crafting Seamless User Experiences**  
 
-Welcome to my GitHub profile! 🚀 I’m a frontend engineer,web developer and a digital creator dedicated to creating engaging and visually stunning web applications. From landing pages to dynamic web apps, I thrive on bringing designs to life with clean, efficient code as well as
+Welcome to my GitHub profile! 🚀 I’m a frontend engineer,web developer and a digital creator dedicated to creating engaging and visually stunning web applications. From landing pages to dynamic web apps, I thrive on bringing designs to life with clean, efficient code as well as creating
 
 ---
 
