@@ -23,19 +23,19 @@
 ### 🌐 Connect with Me  
 <div>
   <a href="mailto:kelvinyeboah.codes@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" width="60" height="60" />
+    <img src="https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.instagram.com/_.yo.kelvin/">
-    <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram" width="60" height="60" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/c/KelvCodes">
-    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" alt="YouTube" width="60" height="60" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://linkedin.com/in/kelvcodes">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="60" height="60" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/KelvCodes">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="60" height="60" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>  
 
@@ -43,25 +43,25 @@
 
 ### 🛠 Languages and Tools  
 <div>
-  <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" alt="JavaScript" width="60" height="60" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/html-5.png" alt="HTML5" width="60" height="60" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/css3.png" alt="CSS3" width="60" height="60" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/react.png" alt="React" width="60" height="60" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/tailwindcss.png" alt="Tailwind CSS" width="60" height="60" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/nodejs.png" alt="Node.js" width="60" height="60" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/typescript.png" alt="TypeScript" width="60" height="60" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/sass.png" alt="Sass" width="60" height="60" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/vue-js.png" alt="Vue.js" width="60" height="60" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" width="60" height="60" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/webpack.png" alt="Webpack" width="60" height="60" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/npm.png" alt="npm" width="60" height="60" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/docker.png" alt="Docker" width="60" height="60" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/bootstrap.png" alt="Bootstrap" width="60" height="60" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/jest.png" alt="Jest" width="60" height="60" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/nextjs.png" alt="Next.js" width="60" height="60" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/figma.png" alt="Figma" width="60" height="60" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/mongodb.png" alt="MongoDB" width="60" height="60" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/firebase.png" alt="Firebase" width="60" height="60" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Sass-CB6492?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
 </div>  
 
 ---
@@ -81,7 +81,7 @@
 ![Languages by Commit](https://github-readme-streak-stats.herokuapp.com?user=KelvCodes&theme=radical&hide_border=true)  
 
 #### GitHub Achievements  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KelvCodes&theme=radical&row=1&column=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KelvCodes&theme=radical&row=2&column=4)
 
 ---
 
@@ -99,6 +99,12 @@ Here are a few of my most notable projects that you can check out:
 
 4. **[E-Commerce Website](https://github.com/KelvCodes/E-Commerce-Site)**  
    - A fully functioning e-commerce website with user authentication and payment integration.
+
+5. **[Expense Tracker](https://github.com/KelvCodes/Expense-Tracker)**  
+   - A simple expense tracking app using React and local storage for keeping track of expenses.
+
+6. **[Weather App](https://github.com/KelvCodes/Weather-App)**  
+   - A weather application that uses an external API to show the weather details based on user input location.
 
 ---
 
