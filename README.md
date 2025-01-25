@@ -60,6 +60,8 @@
   <img src="https://img.icons8.com/ios-filled/50/000000/jest.png" alt="Jest" width="60" height="60" />
   <img src="https://img.icons8.com/ios-filled/50/000000/nextjs.png" alt="Next.js" width="60" height="60" />
   <img src="https://img.icons8.com/ios-filled/50/000000/figma.png" alt="Figma" width="60" height="60" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/mongodb.png" alt="MongoDB" width="60" height="60" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/firebase.png" alt="Firebase" width="60" height="60" />
 </div>  
 
 ---
@@ -78,12 +80,8 @@
 #### Languages Used by Commits  
 ![Languages by Commit](https://github-readme-streak-stats.herokuapp.com?user=KelvCodes&theme=radical&hide_border=true)  
 
-#### GitHub Achievements
-![GitHub Achievements](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvCodes&layout=compact&theme=radical)  
-- **Followers**: 500+  
-- **Public Repositories**: 30+  
-- **Contributions**: 500+  
-- **Streaks**: Maintained a 7-day streak  
+#### GitHub Achievements  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KelvCodes&theme=radical&row=1&column=4)
 
 ---
 
