@@ -1,80 +1,73 @@
-# 👋 Hello, World! I'm Agyare Kelvin  
+# Hi, I'm Austin Bediako (Kaeytee) 👋  
 
-**🌟 Frontend Engineer | UI/UX Enthusiast | Crafting Seamless User Experiences**  
-
-Welcome to my GitHub profile! 🚀 I’m a frontend engineer,web developer and a digital creator dedicated to creating engaging and visually stunning web applications. From landing pages to dynamic web apps, I thrive on bringing designs to life with clean, efficient code as well as creating engaging and educative contents on YouTube.
-
----
-
-![👥](https://img.icons8.com/color/48/000000/conference-call.png) **GitHub Stats**  
-![GitHub followers](https://img.shields.io/github/followers/KelvCodes?label=Follow%20Me&style=social)  
-![GitHub stars](https://img.shields.io/github/stars/KelvCodes?affiliations=OWNER%2CCOLLABORATOR&style=social)  
-![Profile Views](https://komarev.com/ghpvc/?username=KelvCodes&color=blue)  
+<div align="center">
+  <img src="https://octodex.github.com/images/kimonotocat.png" alt="Avatar" width="250"/>
+  <h3>✍️ Random Dev Quote</h3>
+  <blockquote>
+    <p><i>"The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right."</i></p>
+    <footer>- Michael A. Jackson</footer>
+  </blockquote>
+</div>
 
 ---
 
-## 🏆 ![Trophy](https://img.icons8.com/emoji/48/000000/trophy-emoji.png) **Achievements**  
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KelvCodes&theme=radical&margin-w=15&margin-h=15&row=1)  
-
-🎉 **Some Highlights:**  
-- 🚀 **Completed 50+ Projects** showcasing creativity and problem-solving.  
-- 💻 **Contributed to Open Source** to improve global developer tools.  
-- 🌟 **5+ Recognitions** for exceptional UI/UX design and innovation.  
+### 💻 About Me  
+- 🔭 **Currently working on:** Backend Development and Kotlin projects  
+- 🌱 **Currently learning:** Backend Development, Kotlin, JavaScript, and Python  
+- 👯 **Looking to collaborate on:** Frontend Web Design Projects  
+- 🤝 **Looking for help with:** Backend Development  
+- ⚡ **Fun Fact:** I’m passionate about coding and creating impactful projects!  
 
 ---
 
-## 🔍 ![Magnifying Glass](https://img.icons8.com/fluency/48/000000/search.png) **About Me**  
-
-- 🎨 Specializing in creating **user-friendly interfaces** and **responsive designs**.  
-- 🌱 Currently exploring **Next.js** and **advanced animation libraries**.  
-- 💡 Passionate about merging aesthetics and functionality in web development.  
-- ☕ **Fun Fact**: I believe great ideas are brewed over coffee and late-night coding sessions!  
-
----
-
-## 🛠️ ![Tools](https://img.icons8.com/color/48/000000/toolbox.png) **Tech Stack**  
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
-
----
-
-## ✨ ![Project](https://img.icons8.com/color/48/000000/project.png) **Featured Projects**  
-
-🌟 **[Landing Page](https://fitbliss-gym.netlify.app/)**  
-🔗 *A beautifully designed and responsive landing page, built with Tailwind CSS and React.*  
-
-🌟 **[To-Do List App](https://listnest.netlify.app/)**  
-🔗 *A dynamic and intuitive to-do list application with CRUD functionalities and local storage support.*  
-
-🌟 **[Weather App](https://weather-genie-site.netlify.app/)**  
-🔗 *A real-time weather application using the OpenWeather API to fetch and display accurate weather updates.*  
+### 🌐 Connect with Me  
+<div>
+  <a href="mailto:austinbediako4@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="60" height="60" />
+  </a>
+  <a href="https://twitter.com/kaeytee_">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="60" height="60" />
+  </a>
+  <a href="https://linkedin.com/in/kaeytee">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60" />
+  </a>
+  <a href="https://instagram.com/_.kaey.tee_">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="60" height="60" />
+  </a>
+  <a href="https://github.com/Kaeytee">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60" />
+  </a>
+</div>  
 
 ---
 
-## 📈 ![Stats](https://img.icons8.com/external-flat-juicy-fish/48/000000/external-stats-business-and-team-flat-flat-juicy-fish.png) **GitHub Stats**  
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KelvCodes&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvCodes&layout=compact&theme=radical)  
-
----
-
-## 🤝 ![Handshake](https://img.icons8.com/color/48/000000/handshake.png) **Let's Connect!**  
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@TheTechTutor)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/KelvinAgyareYeboah)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_.yo.kelvin)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:onlykelvin06@gmail.com)  
+### 🛠 Languages and Tools  
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" />
+</div>  
 
 ---
 
-💬 *"The details are not the details. They make the design."* – Charles Eames  
+### 📊 GitHub Stats  
 
-🌟 **Thanks for stopping by! Let’s create something amazing together.**  
+#### Overall Stats  
+![Kaeytee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaeytee&show_icons=true&theme=radical&count_private=true)  
+
+#### Top Languages by Repositories  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaeytee&layout=compact&theme=radical)  
+
+#### Contribution Graph  
+[![Kaeytee's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaeytee&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+
+#### Languages Used by Commits  
+![Languages by Commit](https://github-readme-streak-stats.herokuapp.com?user=Kaeytee&theme=radical&hide_border=true)  
+
+---
+
+### 💡 Support My Work  
+If you enjoy my projects, feel free to [Buy Me a Coffee](https://www.buymeacoffee.com/kaeytee)!
