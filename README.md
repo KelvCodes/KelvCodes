@@ -76,9 +76,7 @@
 
 #### Contribution Graph  
 [![KelvCodes' GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KelvCodes&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)  
-
-#### Languages Used by Commits  
-![Languages by Commit](https://github-readme-streak-stats.herokuapp.com?user=KelvCodes&theme=radical&hide_border=true)  
+  
 
 #### GitHub Achievements  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KelvCodes&theme=radical&row=2&column=4)
