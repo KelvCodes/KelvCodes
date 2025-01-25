@@ -20,26 +20,27 @@
 
 ---
 
-### 🚀 Featured Projects  
+ ### 🚀 Featured Projects  
 Here are a few of my most notable projects that you can check out:
 
-1. **[BrainFrys](https://github.com/KelvCodes/BrainFrys)**  
+1. **[BrainFrys](https://github.com/KelvCodes/BrainFrys)** 🌐  
    - A platform offering tutorials and exercises on coding, aiming to provide free resources for learning programming.
 
-2. **[Portfolio](https://github.com/KelvCodes/Portfolio)**  
+2. **[Portfolio](https://github.com/KelvCodes/Portfolio)** 🖥️  
    - My personal portfolio showcasing the projects I've worked on.
 
-3. **[Task Manager](https://github.com/KelvCodes/Task-Manager)**  
+3. **[Task Manager](https://github.com/KelvCodes/Task-Manager)** 📋  
    - A full-stack application for managing tasks, built with React on the front-end and Node.js for the back-end.
 
-4. **[E-Commerce Website](https://github.com/KelvCodes/E-Commerce-Site)**  
+4. **[E-Commerce Website](https://github.com/KelvCodes/E-Commerce-Site)** 🛒  
    - A fully functioning e-commerce website with user authentication and payment integration.
 
-5. **[Expense Tracker](https://github.com/KelvCodes/Expense-Tracker)**  
+5. **[Expense Tracker](https://github.com/KelvCodes/Expense-Tracker)** 💸  
    - A simple expense tracking app using React and local storage for keeping track of expenses.
 
-6. **[Weather App](https://github.com/KelvCodes/Weather-App)**  
+6. **[Weather App](https://github.com/KelvCodes/Weather-App)** 🌦️  
    - A weather application that uses an external API to show the weather details based on user input location.
+
 
 ---
 
