@@ -78,8 +78,31 @@
 #### Languages Used by Commits  
 ![Languages by Commit](https://github-readme-streak-stats.herokuapp.com?user=KelvCodes&theme=radical&hide_border=true)  
 
+#### GitHub Achievements
+![GitHub Achievements](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvCodes&layout=compact&theme=radical)  
+- **Followers**: 500+  
+- **Public Repositories**: 30+  
+- **Contributions**: 500+  
+- **Streaks**: Maintained a 7-day streak  
+
+---
+
+### 🚀 Featured Projects  
+Here are a few of my most notable projects that you can check out:
+
+1. **[BrainFrys](https://github.com/KelvCodes/BrainFrys)**  
+   - A platform offering tutorials and exercises on coding, aiming to provide free resources for learning programming.
+
+2. **[Portfolio](https://github.com/KelvCodes/Portfolio)**  
+   - My personal portfolio showcasing the projects I've worked on.
+
+3. **[Task Manager](https://github.com/KelvCodes/Task-Manager)**  
+   - A full-stack application for managing tasks, built with React on the front-end and Node.js for the back-end.
+
+4. **[E-Commerce Website](https://github.com/KelvCodes/E-Commerce-Site)**  
+   - A fully functioning e-commerce website with user authentication and payment integration.
+
 ---
 
 ### 💡 Support My Work  
 If you enjoy my projects, feel free to [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%F0%9F%8C%8D-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kelvcodes) !
-
