@@ -17,7 +17,7 @@
 ---
 
 ### 💻 About Me  
-- 🔭 **Currently working on:** **BrainFrys** – a bigger and better version of W3Schools (with
+- 🔭 **Currently working on:** **BrainFrys** – a bigger and better version of W3Schools (with updated
 - 🌱 **Currently learning:** Backend Development with Node.js, Express, and MongoDB  
 - 👯 **Looking to collaborate on:** Front-End Web Design and UI/UX projects.
 - 🤝 **Looking for help with:** Building scalable backend systems  
