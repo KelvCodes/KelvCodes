@@ -19,7 +19,7 @@
 ### 💻 About Me  
 - 🔭 **Currently working on:** **BrainFrys** – a bigger and better version of W3Schools (with updated content)
 - 🌱 **Currently learning:** Backend Development with Node.js, Express, and MongoDB  
-- 👯 **Looking to collaborate on:** All kinds Front-End Web Design and UI/UX projects.
+- 👯 **Looking to collaborate on:** All kinds Front-End Designs and UI/UX projects.
 - 🤝 **Looking for help with:** Building scalable backend systems  
 - ⚡ **Fun Fact:** I’m obsessed with clean code and pixel-perfect designs😉!  
 
