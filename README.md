@@ -21,7 +21,8 @@
 - 🌱 **Currently learning:** Backend Development with Node.js, Express, and MongoDB  
 - 👯 **Looking to collaborate on:** All kinds Front-End Designs and UI/UX projects.
 - 🤝 **Looking for help with:** Building scalable backend systems  
-- ⚡ **Fun Fact:** I’m obsessed with clean code and pixel-perfect designs😉!  
+- ⚡ **Fun Fact:** I’m obsessed with clean code and pixel-perfect designs😉!
+- 🎥 **Creation of Digital Content:**
 
 ---
 
