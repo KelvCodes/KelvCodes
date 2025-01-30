@@ -149,7 +149,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=felixashong&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=KelvCodes&theme=dark&show_icons=true&count_private=true" />
   <br></br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KelvCodes&theme=dark&hide_border=false" />
 </td>
