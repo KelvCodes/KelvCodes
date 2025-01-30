@@ -39,7 +39,7 @@
 
 
 
-- 🔭 I’m currently working on *OKADA RIDE*
+- 🔭 I’m currently working on *BCService Management*
 
 - 🌱 I’m currently learning *UI/UX ,Full-Stack Web development,AI/ML,Python*
 
@@ -49,9 +49,9 @@
 
 - 👨‍💻 All of my projects are available at Repository
 
-- 📫 How to reach me *felixashong4@gmail.com*
+- 📫 How to reach me *onlykelvin06@gmail.com*
 
-- 📄 Know about my experiences [portfolio](https://phleodelly.netlify.app/)
+- 📄 Know about my experiences [portfolio]()
 
 - ⚡ Fun fact *I am a social and an opened person*
 
