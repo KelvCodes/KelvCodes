@@ -66,7 +66,7 @@
 	<a href="https://www.linkedin.com/in/kelvin-agyare-yeboah-6728a7301/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.youtube.com/@TechTutor_Tv?sub_confirmation=1"><img src="https://img.shields.io/badge/youtube-%231877F2.svg?style=plastic&logo=youtube&logoColor=white" alt="YouTube"/></a>
 	<a href="https://www.instagram.com/_.yo.kelvin/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://msng.link/o/?saint_kelvinn=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
+	<a href="https://www.snapchat.com/add/saint_kelvinn"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
 </p>
 
 <p align="center">
