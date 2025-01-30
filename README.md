@@ -129,7 +129,7 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/kelvinyeboah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="felixashong" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/kelvcodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="KelvCodes" /></a></p><br><br>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
@@ -191,7 +191,7 @@
   </a>
 </p>
 
-![delly's Graph](https://github-readme-activity-graph.vercel.app/graph?username=KelvCodes&custom_title=Kelv%20Codes's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![kel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=KelvCodes&custom_title=Kelv%20Codes's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 
