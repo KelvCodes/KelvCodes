@@ -41,7 +41,7 @@
 
 - 🔭 I’m currently working on *BrainFrys (a better version of w3schools)*
 
-- 🌱 I’m currently learning *UI/UX ,Full-Stack Development,AI/ML,Python*
+- 🌱 I’m currently learning *Full-Stack Development,AI/ML,Python and*
 
 - 👯 I’m looking to collaborate with  *Other Developers*
 
