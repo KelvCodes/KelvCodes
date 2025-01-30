@@ -94,7 +94,7 @@
 <br><br><br><br><br><br><br>
 <div id="user-content-toc">
   <ul align="center">
- <h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2>
+ <h2 style="display: inline-block">Technologies I Know👨🏻‍💻</h2>
   </ul>
 </div>
 <!--tech stack icons-->
