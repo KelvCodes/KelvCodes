@@ -39,7 +39,7 @@
 
 
 
-- 🔭 I’m currently working on *BCService Management*
+- 🔭 I’m currently working on *BrainFrys*
 
 - 🌱 I’m currently learning *UI/UX ,Full-Stack Web development,AI/ML,Python*
 
