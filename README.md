@@ -179,7 +179,7 @@
 
 <p align="center">
   <a href="https://github.com/felixashong">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixashong&theme=radical" alt="Phleo's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixashong&theme=radical" alt="Kel's GitHub Contribution"/>
   </a>
 </p>
 
