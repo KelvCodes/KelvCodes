@@ -56,53 +56,6 @@
 - ⚡ Fun fact *I am a social and an opened person*
 
 
-## STUDY PATHWAY 
-
-mermaid
-flowchart 
-f1[HTML]
-f2[Css]
-f3[javaScpit]
-f4[ Vue]
-fw1((ReactJs))
-fw2((NextJs))
-fw3((Bootstrap))
-fw4((tailwind))
-fw5((Scss))
-fw6((Angular))
-b1{NodeJs}
-b2{RestAPIs}
-b3{MySql}
- subgraph  BackEnd
-b1
-b2
-b3
- end  
- subgraph Framworks 
-fw1
-fw2
-fw3
-fw4
-fw5
-fw6
- end
-  subgraph  FrontEnd 
- f1
- f2
- f3
- f4
- end  
- f1 --o f2
- f1 --o f3
- f1 --o f4
- f2 --> fw3
- f2 --> fw4
- f2 --> fw5
- f3 --o fw1
- f3 --o fw2
- fw2 --o b1
- f4 --> fw6
- b1 --o b2
  
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
