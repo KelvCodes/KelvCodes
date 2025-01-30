@@ -17,7 +17,7 @@
 <p align="center">I’m fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted. Witnessing the expansion of Information Technology 💡 led me to pursue a career as a frontend engineer 💻, a digital creator 🎨, and an AI enthusiast 🤖. My passion for Web and App Development 📱, software engineering 🔧, and AI 💡 has grown immensely since I started, and I’m continuously striving to learn and master these fields 📚. I love exploring new tech stacks 🖥️ and leveraging them to build innovative and cool projects 🛠 that push the boundaries of what technology can achieve 🚀.</p>
 
 <p align="center">
-  <a href="https://phleodelly.netlify.app/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-blue?style=flat&logo=appveyor" alt="Portfolio">
   </a>
 </p>
