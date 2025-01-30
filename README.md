@@ -3,7 +3,7 @@
 </a>
 <p align="center">
   <img src="<div align="center">
-  <img src="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS" alt="MasterHead">
+  <img src="" alt="MasterHead">
 </div>
 " alt="MasterHead">
 </p>
