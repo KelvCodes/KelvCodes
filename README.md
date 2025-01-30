@@ -3,7 +3,7 @@
 </a>
 <p align="center">
   <img src="<div align="center">
-  <img src="https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif" alt="MasterHead">
+  <img src="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS" alt="MasterHead">
 </div>
 " alt="MasterHead">
 </p>
