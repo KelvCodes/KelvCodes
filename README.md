@@ -5,7 +5,7 @@
   <img src="<div align="center">
   <img src="https://octodex.github.com/images/filmtocat.png" alt="Avatar" width="250"/>">
 </div>
-" alt="MasterHead">
+
 </p>
 <!-- <h1 align="center">Hi 👋, I'm Kelvin Yeboah</h1> -->
 <img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kelvin Yeboah;Full+Stack+Development+And+AI+Enthusiast...👨🏻‍💻;" style="width: 100%;">
