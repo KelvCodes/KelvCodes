@@ -49,7 +49,7 @@
 
 - 👨‍💻 All of my projects are available at Repository
 
-- 📫 How to reach me *onlykelvin06@gmail.com*
+- 📫 Reach me on *onlykelvin06@gmail.com*
 
 - 📄 Know about my experiences [portfolio]()
 
