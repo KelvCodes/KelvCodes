@@ -39,7 +39,7 @@
 
 
 
-- 🔭 I’m currently working on *BrainFrys*
+- 🔭 I’m currently working on *BrainFrys (a*
 
 - 🌱 I’m currently learning *UI/UX ,Full-Stack Web development,AI/ML,Python*
 
