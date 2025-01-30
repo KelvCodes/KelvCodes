@@ -2,8 +2,8 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=KelvCodes&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 <p align="center">
-
-  <img src="https://octodex.github.com/images/filmtocat.png" alt="Avatar" width="250"/>">
+<div>
+  <img src="https://octodex.github.com/images/filmtocat.png" alt="Avatar" width="250"/>
 </div>
 
 </p>
