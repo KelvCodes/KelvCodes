@@ -210,7 +210,7 @@
 
 ### 🎖 **[Award Name]**  
 ![Award Badge](https://img.shields.io/badge/Achievement-Gold-brightgreen?style=for-the-badge&logo=github)  
-🏅 **Awarded by:** [Organization Name]  
+🏅 **Awarded by:** [TEENS IN AI]  
 📅 **Year:** [2024]  
 📜 **Certificate:** [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat-square)](https://github.com/KelvCodes/KelvCodes/blob/main/award_certificate.png)
 
