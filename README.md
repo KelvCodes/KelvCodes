@@ -205,3 +205,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
+
+## 🏆 Awards & Achievements
+
+### 🎖 **[Award Name]**  
+![Award Badge](https://img.shields.io/badge/Achievement-Gold-brightgreen?style=for-the-badge&logo=github)  
+🏅 **Awarded by:** [Organization Name]  
+📅 **Year:** [202X]  
+📜 **Certificate:** [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat-square)](https://github.com/KelvCodes/KelvCodes/blob/main/award_certificate.png)
+
