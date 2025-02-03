@@ -47,7 +47,7 @@
 
 - 🤝 I’m looking for help with *My Project and Sponsors*
 
-- 👨‍💻 All of my projects are available at Repository(don't forget to star them)
+- 👨‍💻 All of my projects are available at Repository(don't forget to star them).
 
 - 📫 Reach me on *onlykelvin06@gmail.com*
 
