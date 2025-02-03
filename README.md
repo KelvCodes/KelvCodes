@@ -53,7 +53,7 @@
 
 - 📄 Know about my experiences [portfolio]()
 
-- ⚡ Fun fact *I am a social and an opened person*
+- ⚡ Fun fact; *I am a social and an opened person*
 
 
  
