@@ -43,7 +43,7 @@
 
 - 🌱 I’m currently learning *Full-Stack Development,AI/ML,Python and Video Editing*
 
-- 👯 I’m looking to collaborate with  *Other Developers* to come
+- 👯 I’m looking to collaborate with  *Other Developers* to build
 
 - 🤝 I’m looking for help with *My Project and Sponsors*
 
