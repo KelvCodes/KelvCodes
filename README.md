@@ -51,7 +51,7 @@
 
 - 📫 Reach me on *onlykelvin06@gmail.com*
 
-- 📄 Know about my experiences [portfolio]()
+- 📄 Know about my experiences [portfolio]().
 
 - ⚡ Fun fact; *I am a social and an opened person.*
 
