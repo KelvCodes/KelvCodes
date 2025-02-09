@@ -6,7 +6,7 @@
 
 </p>
 <!-- <h1 align="center">Hi 👋, I'm Kelvin Yeboah</h1> -->
-<img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kelvin Yeboah;Into+Full+Stack+Development+And+AI+Enthusiast+And...👨🏻‍💻;" style="width: 100%;">
+<img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kelvin Yeboah;Into+Full+Stack+Development+And+AI+Enthusiast+An...👨🏻‍💻;" style="width: 100%;">
 
 
 
