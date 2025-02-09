@@ -57,7 +57,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
 - 📄 Know about my experiences [portfolio]().
 
-- ⚡ Fun fact; *I am a social and an opened person.*
+- ⚡ Fun fact; *I am social and an opened person.*
 
 
  
