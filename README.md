@@ -45,7 +45,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
 - 🔭 I’m currently working on *BrainFrys (a better version of w3schools)*
 
-- 🌱 I’m currently learning *Full-Stack Development(ME,AI/ML,Python and Video Editing*
+- 🌱 I’m currently learning *Full-Stack Development(MER,AI/ML,Python and Video Editing*
 
 - 👯 I’m looking to collaborate with  *Other Developers* to build amazing projects.
 
