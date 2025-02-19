@@ -199,7 +199,15 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
 ![kel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=KelvCodes&custom_title=Kelv%20Codes's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?user=kaeytee&theme=dracula) 
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaeytee)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaeytee)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaeytee&layout=compact&langs_count=10&count-private=true)](https://github.com/kaeytee)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaeytee)
+[![Austin's Stat](https://github-readme-stats.vercel.app/api?username=kaeytee&show_icons=true)](https://github.com/kaeytee) 
+&nbsp;&nbsp;&nbsp;
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=kaeytee)
 
 
 <!-- RAINBOW LINE TOP -->
