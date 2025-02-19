@@ -199,7 +199,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
   </a>
 </p>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KelvCodes)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaeytee&layout=compact&langs_count=10&count-private=true)](https://github.com/KelvCodes)
+
 
 ![kel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=KelvCodes&custom_title=Kelv%20Codes's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
