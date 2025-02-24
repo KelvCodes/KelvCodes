@@ -76,7 +76,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 	https://www.youtube.com/@TechTutor_Tv?sub_confirmation=1"
 	
 	
-	<a href="https://www.youtube.com/@TechTutor_Tv?sub_confirmation=1"><img src="https://img.shields.io/badge/youtube-%231877F2.svg?style=plastic&logo=youtube&logoColor=white" alt="YouTube"/></a>
+	
 	<a href="https://www.instagram.com/_.yo.kelvin/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<a href="https://www.snapchat.com/add/saint_kelvinn"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
 </p>
