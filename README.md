@@ -77,7 +77,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 	ttps://www.instagram.com/_.yo.kelvin/
 	
 	
-	<a href="https://www.instagram.com/_.yo.kelvin/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	
 	<a href="https://www.snapchat.com/add/saint_kelvinn"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
 </p>
 
