@@ -78,7 +78,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 	https://www.snapchat.com/add/saint_kelvinn
 	
 	
-	<a href="https://www.snapchat.com/add/saint_kelvinn"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
+	
 </p>
 
 <p align="center">
