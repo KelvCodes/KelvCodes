@@ -71,7 +71,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 <a href="https://linkedin.com/in/kaeytee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaeytee" height="30" width="40" /></a>
 <a href="https://fb.com/kaeytee0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="kaeytee0" height="30" width="40" /></a>
 <a href="https://instagram.com/_.kaey.tee_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.kaey.tee_" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kaeytech" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@TechTutor_Tv?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kaeytech" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC1Y6UpRY0QewqMFu3Hm55AQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kaeytech" height="30" width="40" /></a>
 	
 	https://www.youtube.com/@TechTutor_Tv?sub_confirmation=1"
