@@ -75,6 +75,9 @@ kelvin-agyare-yeboah-6728a7301
 <a href="https://www.instagram.com/_.yo.kelvin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.kaey.tee_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@TechTutor_Tv?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kaeytech" height="30" width="40" /></a>
 <a href="https://www.github.com/KelvCodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kaeytech" height="30" width="40" /></a>
+<a href="mailto:your-email@example.com" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" />
+</a>
 	
 	
 
