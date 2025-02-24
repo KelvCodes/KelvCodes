@@ -74,7 +74,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 <a href="https://www.youtube.com/channel/UC1Y6UpRY0QewqMFu3Hm55AQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kaeytech" height="30" width="40" /></a>
 	
 	https://www.youtube.com/@TechTutor_Tv?sub_confirmation=1"
-	
+	ttps://www.instagram.com/_.yo.kelvin/
 	
 	
 	<a href="https://www.instagram.com/_.yo.kelvin/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
