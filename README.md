@@ -49,7 +49,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
 - 🌱 I’m currently learning *Full-Stack Development(MERN),AI/ML,Python and Video Editing*
 
-- 👯 I’m eagerly looking to collaborate with  *Other Developers* to build world  projects.
+- 👯 I’m eagerly looking to collaborate with  *Other Developers* to build world class  projects.
 
 - 🤝 I’m looking for help with *My Project as well as Sponsors*
 
