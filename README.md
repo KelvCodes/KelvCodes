@@ -17,7 +17,7 @@
 <h3 align="center">🎨 Frontend Engineer 💻 | Digital Creator 🎥 | AI & Blockchain Enthusiast 🤖 | Tech Innovator 🚀</h3>
 <p align="center">🌍 The rapid evolution of technology has transformed our lives in ways we never imagined, and being part of this revolution fuels my passion each day. Witnessing the expansion of Information Technology 💡 inspired me to pursue a career as a Frontend Engineer, Digital Creator, and AI and Blockchain Enthusiast 🤖.
 
-With a deep interest in Full Stack Web & App Development, Software Engineering and Dev, and Artificial Intelligence, I’m constantly learning, experimenting, and pushing the boundaries of what technology can achieve. I thrive on exploring new tech stacks 🖥️, crafting innovative solutions 🛠, and building projects that redefine possibilities 🚀.
+With a deep interest in Full Stack Web & App Development, Software Engineering and Develop, and Artificial Intelligence, I’m constantly learning, experimenting, and pushing the boundaries of what technology can achieve. I thrive on exploring new tech stacks 🖥️, crafting innovative solutions 🛠, and building projects that redefine possibilities 🚀.
 
 For me, technology isn’t just about coding—it’s about creating, innovating, and making an impact. Let’s build the future together! 💡</p>
 
