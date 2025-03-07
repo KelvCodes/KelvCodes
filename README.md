@@ -51,7 +51,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
 - 👯 I’m eagerly looking to collaborate with  *Other Developers* to build world class  projects.
 
-- 🤝 I’m looking fo help with *My Project as well as Sponsors*
+- 🤝 I’m looking f help with *My Project as well as Sponsors*
 
 - 👨‍💻 All of my projects are available at Repository(don't forget to star them).
 
