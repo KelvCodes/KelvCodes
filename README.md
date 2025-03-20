@@ -22,7 +22,7 @@ With a deep interest in Full Stack Web & App Development, Software Engineering a
 For me, technology isn’t just about coding—it’s about creating, innovating, and making an impact. Let’s build the future together! 💡</p>
 
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://kelvinagyareyeboah.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-blue?style=flat&logo=appveyor" alt="Portfolio">
   </a>
 </p>
