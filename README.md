@@ -60,7 +60,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 - 📄 Get to know more about me and my experiences
 -  [portfolio](https://kelvinagyareyeboah.netlify.app/).
 
-- ⚡ Fun fact; *I am social, and a opened person.*
+- ⚡ Fun fact; *I am social, and a v opened person.*
 
 
  
