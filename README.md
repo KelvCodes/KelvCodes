@@ -1,9 +1,7 @@
 <a href="https://komarev.com/ghpvc/?username=KelvCodes">
   <img align="right" src="https://komarev.com/ghpvc/?username=KelvCodes&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg" alt="Lion Avatar" width="250"/>
-</p>
+
 
 
 <!-- <h1 align="center">Hey👋, I'm Kelvin Yeboah</h1> -->
