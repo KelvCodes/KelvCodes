@@ -1,3 +1,7 @@
+[![committers.top badge](https://user-badge.committers.top/ghana/KelvCodes.svg)](https://user-badge.committers.top/ghana/KelvCodes)
+
+
+
 <a href="https://komarev.com/ghpvc/?username=KelvCodes">
   <img align="right" src="https://komarev.com/ghpvc/?username=KelvCodes&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
