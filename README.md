@@ -17,9 +17,6 @@
 
 
 <!--  -->
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kelvcodes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
@@ -202,7 +199,7 @@ kelvin-agyare-yeboah-6728a7301
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=KelvCodes&theme=matrix&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="![](https://github-profile-trophy.vercel.app/?username=kelvcodes&theme=radical&no-frame=false&no-bg=true&margin-w=4)" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (END) -->
