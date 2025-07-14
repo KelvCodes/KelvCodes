@@ -200,8 +200,11 @@ kelvin-agyare-yeboah-6728a7301
 
 <!--- trophy (END) -->
 
-
-</p>        
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=KelvCodes&theme=matrix&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>       
 <!--- stats (end) -->
   
 </div>
