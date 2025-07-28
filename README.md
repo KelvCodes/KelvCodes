@@ -51,7 +51,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
 
 
-- 🔭 I’m currently working on *JobPilotAI(a complete warehouse for job seeke)*
+- 🔭 I’m currently working on *JobPilotAI(a complete warehouse for job seeker)*
 
 - 🌱 I’m currently learning *Full-Stack Development(MERN),AI/ML,Python and Video Editing*
 
