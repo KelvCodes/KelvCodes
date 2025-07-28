@@ -51,7 +51,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
 
 
-- 🔭 I’m currently working on *JobPilotAI(a better version of w3schools)*
+- 🔭 I’m currently working on *JobPilotAI(a better version of w3school)*
 
 - 🌱 I’m currently learning *Full-Stack Development(MERN),AI/ML,Python and Video Editing*
 
