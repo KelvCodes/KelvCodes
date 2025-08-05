@@ -20,7 +20,7 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h3 align="center">🎨 Software Engineer 💻 | Digital Creator 🎥 | ML & Blockchain nts
+<h3 align="center">🎨 Software Engineer 💻 | Digital Creator 🎥 | ML & Blockchain nt
 	a 🤖 | Web Developer🚀</h3>
 <p align="center">🌍 The rapid evolution of technology has transformed our lives in ways we never imagined, and being part of this revolution fuels my passion each day. Witnessing the expansion of Information Technology 💡 inspired me to pursue a career as a Software Developer , Digital Creator, AI and Machine Learning Engineer, and Blockchain Developer 🤖.
 
