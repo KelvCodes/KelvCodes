@@ -57,7 +57,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
 - 👯 I’m eagerly looking to collaborate with  *Other Developers* to build impactful projects for society
 
-- 🤝 I'm seeking aid in sponsoring *My Project as well as p*
+- 🤝 I'm seeking aid in sponsoring *My Project as well as *
 
 - 👨‍💻 All of my projects are available at Repositories(don't forget to star them).
 
