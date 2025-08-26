@@ -25,7 +25,7 @@
 
 With a deep interest in Full Stack Web & App Development, Software Engineering and Development, Artificial Intelligence & Machine Learning Blockchain & Web3. I’m constantly learning, experimenting, and pushing the boundaries of what technology can achieve. I thrive on exploring new tech stacks 🖥️, crafting innovative solutions 🛠, and building projects that redefine possibilities 🚀.
 
-For me, technology isn’t just about coding—it’s about creating, innovating, and making a meaningful impact on soci. Let’s build the future together! 💡</p>
+For me, technology isn’t just about coding—it’s about creating, innovating, and making a meaningful impact on socie. Let’s build the future together! 💡</p>
 
 <p align="center">
   <a href="https://kelvinagyareyeboah.netlify.app/" target="_blank">
