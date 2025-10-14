@@ -63,7 +63,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
 - 📫 Reach me on *onlykelvin06@gmail.com*
 
-- 📄 Get to know more about me and my experiences[portfolio](https://kelvinagyareyeboah.netlify.app/).
+- 📄 Get to know more about me and my experiences [portfolio](https://kelvinagyareyeboah.netlify.app/).
 
 - ⚡ Fun fact; *I am social, and a very  opened person.*
 
