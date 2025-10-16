@@ -232,7 +232,7 @@ kelvin-agyare-yeboah-6728a7301
 
 ## 🏆 Awards & Achievements
 
-### 🎖 **IWD GLOBAL TECHCATHON WINNER**  
+### 2🎖 **IWD GLOBAL TECHCATHON WINNER**  
 ![Award Badge](https://img.shields.io/badge/Achievement-Gold-brightgreen?style=for-the-badge&logo=github)  
 🏅 **Awarded by:** TEENS IN AI  
 📅 **Year:** 2024 
