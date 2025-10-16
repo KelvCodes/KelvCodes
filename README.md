@@ -235,6 +235,6 @@ kelvin-agyare-yeboah-6728a7301
 ### 2x🎖 **IWD GLOBAL TECHCATHON WINNER**  
 ![Award Badge](https://img.shields.io/badge/Achievement-Gold-brightgreen?style=for-the-badge&logo=github)  
 🏅 **Awarded by:** TEENS IN AI  
-📅 **Year:** 2024 
+📅 **Year:** 2024 & 
 📜 **Certificate:** [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat-square)](https://github.com/KelvCodes/KelvCodes/blob/main/award_cerficate.jpg)
 
