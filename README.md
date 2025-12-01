@@ -1,4 +1,4 @@
-## Top Github Contributors in th Ghana [![committers.top badge](https://user-badge.committers.top/ghana/KelvCodes.svg)](https://user-badge.committers.top/ghana/KelvCodes)
+## Top Github Contributors in the Ghana [![committers.top badge](https://user-badge.committers.top/ghana/KelvCodes.svg)](https://user-badge.committers.top/ghana/KelvCodes)
 
 
 
