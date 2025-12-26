@@ -59,7 +59,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
 - 🤝 I'm seeking aid in sponsoring *My Project*
 
-- 👨‍💻 All of my projects are available at Repositories(don't forget to star them).
+- 👨‍💻 All of my projects are available at Repositories(don't forget to star them 😁).
 
 - 📫 Reach me on *onlykelvin06@gmail.com*
 
