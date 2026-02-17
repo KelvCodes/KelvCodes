@@ -1,4 +1,4 @@
-## Top Github Contributors in the Republ of Ghan ![![committersop badge](htts://user-bdge.commtesophana/lvCodssv)]tps//u
+## Top Github Contributors in the Republ of Ghan ![![committersop badge](htts://user-bdge.commtesophana/lvCodssv)]tps/
 
 
 
