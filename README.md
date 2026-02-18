@@ -61,7 +61,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
   ![Status](https://img.shieldso/badge/atus-In%20Development-yellow?style=flat-square) ![Stack](https://img.shields.io/badge/Stack-MERN-blue?style=flat-square) ![Type](https://img.shields.io/badge/Typettup-bla?style=flat-square
 - 🤖 **JobPilotAI** — AI-powered ch job eration system  
   ![Status](https://img.shields.io/badgeStatuActive-brightgrn?style=flat-square) ![Stack](https://img.shields.io/badge/Stack-AI%20%7C%20MERN-purple?style=flat-square
-- 🏗️ **Zoharix Core** — Central estefor digital products  
+- 🏗️ **Zoharix Core** — Ceral estefor digital products  
   ![Status](https://img.shieldio/badge/Stus-Planninblnitlatfm  
   ![Status](https://img.shieldio/badge/Stat-Cceptrangstylft-sq
 
