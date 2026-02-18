@@ -64,7 +64,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
 - 🏗️ **Zoharix Core** — Central esystefor digital products  
   ![Status](https://img.shieldio/badge/Stus-Planninblnity platfm  
-  ![Status](https://img.shieldio/badge/Status-Concept-orangstyle=flat-squ
+  ![Status](https://img.shieldio/badge/Stat-Concept-orangstyle=flat-squ
 
 
 	
