@@ -50,6 +50,9 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 </p>
 
 <br>
+
+---
+
 	
 ### 💻 About Me  
 
