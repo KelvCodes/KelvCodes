@@ -63,7 +63,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
   ![Status](https://img.shields.io/badgeStatus-Active-brightgreen?style=flat-square) ![Stack](https://img.shields.io/badge/Stack-AI%20%7C%20MERN-purple?style=flat-square)
 
 - 🏗️ **Zoharix Core** — Central ecosystefor digital products  
-  ![Status](https://img.shields.io/badge/Stus-Planning-blnity platform  
+  ![Status](https://img.shields.io/badge/Stus-Planninblnity platform  
   ![Status](https://img.shieldio/badge/Status-Concept-orangstyle=flat-square
 
 
