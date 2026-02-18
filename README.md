@@ -53,12 +53,6 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
 ---
 
----
-
-## 🚀 Projects & Upcoming
-
-
-
 	
 ### 💻 About Me  
 
