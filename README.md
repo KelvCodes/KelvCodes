@@ -67,7 +67,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
   ![Status](https://img.shields.io/badge/Status-Planning-blue?style=flat-square)
 
 - 🌍 **DevConnect Africa** — Developer collaboration & opportunity platform  
-  ![Status](https://img.shields.io/badge/Status-Concept-orange?style=flat-square)
+  ![Status](https://img.shields.io/badge/Status-Concept-orange?style=flat-square
 
 
 	
