@@ -53,6 +53,23 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
 ---
 
+---
+
+## 🚀 Projects & Upcoming
+
+- 🎟️ **Z-Events** — Event management & digital ticketing platform (Zoharix)  
+  ![Status](https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square) ![Stack](https://img.shields.io/badge/Stack-MERN-blue?style=flat-square) ![Type](https://img.shields.io/badge/Type-Startup-black?style=flat-square)
+
+- 🤖 **JobPilotAI** — AI-powered tech job preparation system  
+  ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) ![Stack](https://img.shields.io/badge/Stack-AI%20%7C%20MERN-purple?style=flat-square)
+
+- 🏗️ **Zoharix Core** — Central ecosystem for digital products  
+  ![Status](https://img.shields.io/badge/Status-Planning-blue?style=flat-square)
+
+- 🌍 **DevConnect Africa** — Developer collaboration & opportunity platform  
+  ![Status](https://img.shields.io/badge/Status-Concept-orange?style=flat-square)
+
+
 	
 ### 💻 About Me  
 
