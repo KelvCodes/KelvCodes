@@ -63,7 +63,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 - 🤖 **JobPilotAI** — AI-powered tech job preparation system  
   ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) ![Stack](https://img.shields.io/badge/Stack-AI%20%7C%20MERN-purple?style=flat-square)
 
-- 🏗️ **Zoharix Core** — Central ecosystem for digital products  
+- 🏗️ **Zoharix Core** — Central ecosystefor digital products  
   ![Status](https://img.shields.io/badge/Status-Planning-blue?style=flat-square
 - 🌍 **DevConnect Africa** — Developer collaboration & opportunity platform  
   ![Status](https://img.shields.io/badge/Status-Concept-orangstyle=flat-square
