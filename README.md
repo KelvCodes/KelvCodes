@@ -61,7 +61,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
   ![Status](https://img.shieldso/badge/atus-In%20Development-yellow?style=flat-square) ![Stack](https://img.shields.io/badge/Stack-MERN-blue?style=flat-square) ![Type](https://img.shields.io/badge/Typettup-bla?style=flat-square
 - 🤖 **JobPilotAI** — AI-powered chration system  
   ![Status](https://img.shi 
-  ![Status](https://img.iadge/Ss-Plannin
+  ![Status](https://img.iadge/Ss-Pl
   ![Status](https://img.shldio/dge/Stat-Ccepa
 
 	
