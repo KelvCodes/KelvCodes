@@ -62,7 +62,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 - 🤖 **JobPilotAI** — AI-powered chration system  
   ![Status](https://img.shi 
   ![Status](https://img.iadge/Ss
-  ![Status](https://img.shldio/dge/Stat-Ccepa
+  ![Status](https://img.shldio/dge/Stat-Ca
 
 	
 ### 💻 About Me  
