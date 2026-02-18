@@ -57,8 +57,6 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
 ## 🚀 Projects & Upcoming
 
-- 🎟️ **Z-Events** — Event management & digital ticketing platform (Zoharix)  
-  ![Status](https://img.shieldso/badge/atus-In%20Development-yellow?style=flat-square) ![Stack](https://img.shields.io/badge/Stack-MERN-blue?style=flat-square) ![Type](https://img.shields.io/badge
 
 
 	
