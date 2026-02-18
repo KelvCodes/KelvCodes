@@ -62,7 +62,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 - 🤖 **JobPilotAI** — AI-powered ch job eration system  
   ![Status](https://img.shields.io/badgeStatuActive-brightgrn?style=flat-square) ![Stack](https://img.shields.io/badge/Stack-AI%20%7C%20MERN-purple?style=flat-square
 - 🏗️ **Zoharix Core** — Ceral estefor digital products  
-  ![Status](https://img.ieldio/badge/Stus-Planninblnitlatfm  
+  ![Status](https://img.ieldioadge/Stus-Planninblnitlatfm  
   ![Status](https://img.shieldio/badge/Stat-Cceptrangstylft-sq
 
 	
