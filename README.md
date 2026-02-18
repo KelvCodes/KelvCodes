@@ -60,7 +60,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 - 🎟️ **Z-Events** — Event management & digital ticketing platform (Zoharix)  
   ![Status](https://img.shieldso/badge/atus-In%20Development-yellow?style=flat-square) ![Stack](https://img.shields.io/badge/Stack-MERN-blue?style=flat-square) ![Type](https://img.shields.io/badge/Typettup-bla?style=flat-square
 - 🤖 **JobPilotAI** — AI-powered chration system  
-  ![Status](https://img.shi digital products  
+  ![Status](https://img.shi digital p  
   ![Status](https://img.iadge/Ss-Planninblnlatfm  
   ![Status](https://img.shldio/dge/Stat-Cceptrangstylft-sq
 
