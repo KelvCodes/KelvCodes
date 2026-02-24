@@ -94,7 +94,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 <a href="https://www.instagram.com/_.yo.kelvin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kelvCodes" height="50" width="100" /></a>
 <a href="https://www.youtube.com/@TechTutor_Tv?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kelvCodes" height="50" width="100" /></a>
 <a href="https://www.github.com/KelvCodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kelvCodes" height="50" width="100" /></a>
-<a href="https://www.github.com/KelCd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kelvCodes" height="50" width="100" /></a>
+<a href="https://www.github.com/KeCd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kelvCodes" height="50" width="100" /></a>
 
 
 
