@@ -4,8 +4,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Kelvin%20Agyare%20Yeboah-000000?style=flat-square&logo=netlify&logoColor=FFFFFF&color=FFFFFF)](https://kelvinagyareyeboah.netlify.app)
 
-[![Built with React](https://img.shields.io/badge/Built%20with-React-61DAFB.svg?style=flat-square&logo=react&logoColor=white)](https://react.dev/)
-
 
 [![committers.top badge](https://user-badge.committers.top/ghana_private/KelvCodes.svg)](https://user-badge.committers.top/ghana_private/KelvCodes)
 
