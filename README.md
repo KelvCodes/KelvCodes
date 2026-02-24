@@ -1,3 +1,5 @@
+[![YouTube Channel](https://img.shields.io/badge/YouTube-TechTutor_TV-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@TheTechTutor)
+
 [![Built with React](https://img.shields.io/badge/Built%20with-React-61DAFB.svg?style=flat-square&logo=react&logoColor=white)](https://react.dev/)
 
 
