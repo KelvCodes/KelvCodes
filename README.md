@@ -2,6 +2,8 @@
 
 [![Zoharix](https://img.shields.io/badge/Zoharix-Innovating%20Software-111827?style=flat-square&logo=vercel&logoColor=white)](https://zoharix.tech)
 
+[![Zoharix](https://img.shields.io/badge/Zoharix-Official%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=D4AF37&color=D4AF37)](https://zoharix.tech)
+
 [![Built with React](https://img.shields.io/badge/Built%20with-React-61DAFB.svg?style=flat-square&logo=react&logoColor=white)](https://react.dev/)
 
 
