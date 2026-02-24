@@ -61,7 +61,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
 
 
-- Currently working with [Zoharix](ww
+- Currently working with [Zoharix](www
 
 - 🔭 I’m currently working on *JobPilotAI(a complete warehouse for job seekers to prepare them for any occupation in the tech space)*
 
