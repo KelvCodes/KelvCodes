@@ -60,8 +60,8 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
-h
-- Currently working with [Zo
+
+- Currently working with [Zoh
 
 - 🔭 I’m currently working on *JobPilotAI(a complete warehouse for job seekers to prepare them for any occupation in the tech space)*
 
