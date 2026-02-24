@@ -1,5 +1,7 @@
 [![YouTube Channel](https://img.shields.io/badge/YouTube-TechTutor_TV-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@TechTutor_TV)
 
+[![Zoharix](https://img.shields.io/badge/Zoharix-Innovating%20Software-111827?style=flat-square&logo=vercel&logoColor=white)](https://zoharix.tech)
+
 [![Built with React](https://img.shields.io/badge/Built%20with-React-61DAFB.svg?style=flat-square&logo=react&logoColor=white)](https://react.dev/)
 
 
