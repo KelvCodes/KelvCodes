@@ -2,6 +2,8 @@
 
 [![Zoharix](https://img.shields.io/badge/Zoharix-Official%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=D4AF37&color=D4AF37)](https://zoharix.tech)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Kelvin%20Agyare%20Yeboah-000000?style=flat-square&logo=netlify&logoColor=FFFFFF&color=FFFFFF)](https://kelvinagyareyeboah.netlify.app)
+
 [![Built with React](https://img.shields.io/badge/Built%20with-React-61DAFB.svg?style=flat-square&logo=react&logoColor=white)](https://react.dev/)
 
 
